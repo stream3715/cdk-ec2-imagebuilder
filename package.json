@@ -34,35 +34,35 @@
     "organization": false
   },
   "devDependencies": {
-    "@types/jest": "^27.4.0",
-    "@types/node": "^12",
+    "@types/jest": "^29.2.4",
+    "@types/node": "^18",
     "@typescript-eslint/eslint-plugin": "^5",
     "@typescript-eslint/parser": "^5",
-    "aws-cdk-lib": "2.8.0",
-    "constructs": "10.0.5",
+    "aws-cdk-lib": "2.53.0",
+    "constructs": "10.1.182",
     "eslint": "^8",
     "eslint-import-resolver-node": "^0.3.6",
-    "eslint-import-resolver-typescript": "^2.5.0",
-    "eslint-plugin-import": "^2.25.4",
-    "jest": "^27.4.7",
-    "jest-junit": "^13",
-    "jsii": "^1.52.1",
-    "jsii-diff": "^1.52.1",
-    "jsii-docgen": "^4.2.39",
+    "eslint-import-resolver-typescript": "^3.5.2",
+    "eslint-plugin-import": "^2.26.0",
+    "jest": "^29.3.1",
+    "jest-junit": "^15",
+    "jsii": "^1.72.0",
+    "jsii-diff": "^1.72.0",
+    "jsii-docgen": "^7.0.166",
     "json-schema": "^0.4.0",
-    "npm-check-updates": "^12",
-    "projen": "^0.50.29",
+    "npm-check-updates": "^16",
+    "projen": "^0.65.49",
     "standard-version": "^9",
-    "ts-jest": "^27.1.2",
-    "typescript": "^4.5.4"
+    "ts-jest": "^29.0.3",
+    "typescript": "^4.9.3"
   },
   "peerDependencies": {
     "aws-cdk-lib": "^2.8.0",
     "constructs": "^10.0.5"
   },
   "dependencies": {
-    "cdk-ec2-key-pair": "^3.0.1",
-    "cdk-iam-floyd": "^0.305.0"
+    "cdk-ec2-key-pair": "^3.3.1",
+    "cdk-iam-floyd": "^0.461.0"
   },
   "bundledDependencies": [
     "cdk-ec2-key-pair",
